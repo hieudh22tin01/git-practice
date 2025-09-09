@@ -1,2 +1,1 @@
-# git-practice
-Giới thiệu: Tôi là <Tran Nguyen Minh Hieu>, MSSV <224200>.
+Đây là README từ nhánh conflict-demo.
